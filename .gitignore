@@ -2,9 +2,10 @@
 # Read about how to use .gitignore: https://help.github.com/articles/ignoring-files
 .DS_Store
 
+public
 dist
+.deploy_git
 node_modules
 ncp-debug.log
 npm-debug.log
-public
 .idea
